@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #eee;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    text-align: center;
+  }
+  
+.password-input {
+  width: 200px;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+  
+  .submit-button {
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+  }
+  
+  .password-strength {
+    font-size: 16px;
+    color: #333;
+  }
+  

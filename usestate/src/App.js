@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-     
+     <p>choose step numebr</p>
    <p> <input type = "Number" value = {delta} onChange = {isdelta} /> </p>
    <p> max numebr in the counter</p>
    <p> <input type = "Number" value = {max} onChange = {isMax} /> </p>
